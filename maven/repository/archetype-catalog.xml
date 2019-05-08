@@ -126,25 +126,25 @@
     <archetype>
       <groupId>com.eidosmedia.portal</groupId>
       <artifactId>archetype.psn.extensions</artifactId>
-      <version>3.2019.05</version>
+      <version>3.2019.05.p1</version>
       <description>archetype.psn.extensions</description>
     </archetype>
     <archetype>
       <groupId>com.eidosmedia.portal</groupId>
       <artifactId>archetype.web-module</artifactId>
-      <version>3.2019.05</version>
+      <version>3.2019.05.p1</version>
       <description>archetype.web-module</description>
     </archetype>
     <archetype>
       <groupId>com.eidosmedia.portal</groupId>
       <artifactId>archetype.directory.extensions</artifactId>
-      <version>3.2019.05</version>
+      <version>3.2019.05.p1</version>
       <description>archetype.directory.extensions</description>
     </archetype>
     <archetype>
       <groupId>com.eidosmedia.portal</groupId>
       <artifactId>archetype.web-base.extensions</artifactId>
-      <version>3.2019.05</version>
+      <version>3.2019.05.p1</version>
       <description>archetype.web-base.extensions</description>
     </archetype>
   </archetypes>
