@@ -1,0 +1,19 @@
+[
+    {
+        "locationName": "Europe",
+        "locationUrl": "location://europe",
+        "locationType": "CONTINENT",
+        "locationChildren": [
+            {
+                "locationName": "Italy",
+                "locationUrl": "location://europe/italy",
+                "locationType": "COUNTRY"
+            },
+            {
+                "locationName": "France",
+                "locationUrl": "location://europe/france",
+                "locationType": "COUNTRY"
+            }
+        ]
+    }
+]
