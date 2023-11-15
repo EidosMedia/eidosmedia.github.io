@@ -13,6 +13,11 @@
                 "locationName": "France",
                 "locationUrl": "location://europe/france",
                 "locationType": "COUNTRY"
+            },
+            {
+                "locationName": "Germany",
+                "locationUrl": "location://europe/germany",
+                "locationType": "COUNTRY"
             }
         ]
     }
